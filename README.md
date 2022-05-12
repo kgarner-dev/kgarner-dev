@@ -1,4 +1,4 @@
-<img src="https://github.com/kgarner3636/kgarner3636/blob/main/KALEB%20GARNER%20(1).gif" width="100%">
+<img src="https://github.com/kgarner3636/kgarner3636/blob/main/KALEB%20GARNER%20(2)%20(1).gif" width="100%">
 
 
 <h3 align="center">Web developer based out of DFW, Texas looking to code the future!</h3>
