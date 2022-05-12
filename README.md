@@ -1,4 +1,4 @@
-<img src="imgur.com/a/hNUEuBx">
+![Kaleb Garner]()
 
 
 <h3 align="center">Web developer based out of DFW, Texas looking to code the future!</h3>
