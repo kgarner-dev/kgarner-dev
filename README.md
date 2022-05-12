@@ -1,5 +1,6 @@
+<img src="imgur.com/a/hNUEuBx">
 
-<h1 align="center">Hi 👋, I'm Kaleb</h1>
+
 <h3 align="center">Web developer based out of DFW, Texas looking to code the future!</h3>
 
 <h3 align="center">Languages and Tools:</h3>
