@@ -3,13 +3,13 @@
 
 <h3 align="center">Web developer based out of DFW, Texas looking to code the future!</h3>
 
-<p align="center">As I go through my day, my passion for coding leads me to replay a question in my head constantly. What can I build that will help people?</br>
+<p align="center">As I go through my day, my passion for coding leads me to replay a question in my head constantly. What can I build that will help people?</p>
 <div></div>
-As a web developer, I am passionate about finding the solutions and code that will impact people’s daily life. My favorite part of coding is being able to solve problems while creating something extraordinary. I love taking common issues and molding code to answer them; being able to answer these issues with a product that is semantic, accessible, interactive on multiple layers, and aesthetically pleasing is why I have been drawn to coding.</br>
+<p align="center">As a web developer, I am passionate about finding the solutions and code that will impact people’s daily life. My favorite part of coding is being able to solve problems while creating something extraordinary. I love taking common issues and molding code to answer them; being able to answer these issues with a product that is semantic, accessible, interactive on multiple layers, and aesthetically pleasing is why I have been drawn to coding.</p>
 <div></div>
-As an employee, I strive to be flexible, detail-oriented, and attentive to the products that I create. I love to grow in my craft and always seek to deepen my knowledge about a variety of subjects.</br>
+<p align="center">As an employee, I strive to be flexible, detail-oriented, and attentive to the products that I create. I love to grow in my craft and always seek to deepen my knowledge about a variety of subjects.</p>
 <div></div>
-How can I help you build the change of the future?</br></p>
+<p align="center">How can I help you build the change of the future?</p>
 <div></div>
 
 <h3 align="center">Languages and Tools:</h3>
