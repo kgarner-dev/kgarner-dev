@@ -9,7 +9,7 @@ As a web developer, I am passionate about finding the solutions and code that wi
 <div></div>
 As an employee, I strive to be flexible, detail-oriented, and attentive to the products that I create. I love to grow in my craft and always seek to deepen my knowledge about a variety of subjects.</br>
 <div></div>
-How can I help you build the change of the future?</br>
+How can I help you build the change of the future?</br></p>
 <div></div>
 
 <h3 align="center">Languages and Tools:</h3>
