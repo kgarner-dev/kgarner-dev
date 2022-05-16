@@ -24,3 +24,34 @@
 <p align="center"> <a href="https://twitter.com/kalebgarner18" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a> </p>
 <p align="center"> <a href="https://kalebgarnerdev.netlify.app/" target="blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> </p>
 <p align="center"> <a href="https://www.linkedin.com/in/kalebgarner/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
+
+<h3 align="center">My Projects</h3>
+<table>
+  <tr>
+    <td>
+      <h3 align="center">Bible Bug</h3>
+      <p><strong>Javascript, HTML, CSS</strong> - Platform to keep your progress through the Bible on your device.</p>
+        <br />
+        <a target="_blank" href="biblebug.netlify.app">
+            <img src="biblebuggif.gif" width="100%"/>
+        </a>
+    </td>
+     <td>
+      <h3 align="center">Portfolio</h3>
+       <p><strong>Javascript, HTML, CSS</strong> - My portfolio website to display my story, projects, and contact information.</p>
+        <br />
+        <a target="_blank" href="kalebgarnerdev.netlify.app">
+            <img src="portfoliogif.gif" width="100%"/>
+        </a>
+    </td>
+       <td>
+      <h3 align="center">Choose your Own Sports</h3>
+      <p><strong>Javascript, HTML, CSS</strong> - Platform to visualize sports team matchups using gifs.</p>
+        <br />
+        <a target="_blank" href="chooseyourownsports.netlify.app">
+            <img src="cyosgif.gif" width="100%"/>
+        </a>
+    </td>
+  </tr>
+    
+</table>
