@@ -32,7 +32,7 @@
       <h3 align="center">Bible Bug</h3>
       <p><strong>Javascript, HTML, CSS</strong> - Platform to keep your progress through the Bible on your device.</p>
         <br />
-        <a target="_blank" href="biblebug.netlify.app">
+        <a target="_blank" href="https://biblebug.netlify.app/">
             <img src="biblebuggif.gif" width="100%"/>
         </a>
     </td>
@@ -40,7 +40,7 @@
       <h3 align="center">Portfolio</h3>
        <p><strong>Javascript, HTML, CSS</strong> - My portfolio website to display my story, projects, and contact information.</p>
         <br />
-        <a target="_blank" href="kalebgarnerdev.netlify.app">
+        <a target="_blank" href="https://kalebgarnerdev.netlify.app/">
             <img src="portfoliogif.gif" width="100%"/>
         </a>
     </td>
@@ -48,7 +48,7 @@
       <h3 align="center">Choose your Own Sports</h3>
       <p><strong>Javascript, HTML, CSS</strong> - Platform to visualize sports team matchups using gifs.</p>
         <br />
-        <a target="_blank" href="chooseyourownsports.netlify.app">
+        <a target="_blank" href="https://chooseyourownsports.netlify.app/">
             <img src="cyosgif.gif" width="100%"/>
         </a>
     </td>
