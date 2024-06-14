@@ -1,4 +1,4 @@
-<h1 algin="center">Kaleb Garner</h1>
+<h1 align="center">Kaleb Garner</h1>
 <h2 align="center">Coding the Future</h2>
 
 <p align="center">As I go through my day, my passion for coding leads me to replay a question in my head constantly. What can I build that will help people?</p>
